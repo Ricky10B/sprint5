@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Implementation-Title: sprint5
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: co.edu.unab.misiontic.Sprint5Application
+Created-By: Maven Integration for Eclipse
+
